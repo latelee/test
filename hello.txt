@@ -2,3 +2,6 @@ gsdafdsfilkk
 hello from linux
 
 hello from windows
+
+
+使用putty key之后的修改。
