@@ -9,3 +9,5 @@ hello from windows
 
 hello.exe
 
+
+这是嵌入式Linux入门课程的git提交。。。
